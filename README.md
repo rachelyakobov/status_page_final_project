@@ -14,7 +14,8 @@ It demonstrates a production-grade setup including networking, security, monitor
 ---
 
 ## 🏛 Architecture
-![Architecture Diagram](images/Architecture.jpg)
+<img width="751" height="553" alt="image" src="https://github.com/user-attachments/assets/f605de87-0c51-4fd6-aa35-52becbeceec5" />
+
 
 
 **Flow:**
@@ -120,4 +121,4 @@ It demonstrates a production-grade setup including networking, security, monitor
 
 ---
 
-### Created by Duvie, 2025
+### Created by Rachel, 2025
